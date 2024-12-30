@@ -22,8 +22,7 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** currently wo
 
 ## 🎓 Education
 
-- **B.Sc. in Computer Science (Honours)**  
-  **University of Kelaniya**, Sri Lanka  
+- **B.Sc. in Computer Science (Honours), University of Kelaniya**, Sri Lanka  
 
 ---
 
