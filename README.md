@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wishwa Prabodha
 
-Welcome to my GitHub! I'm a passionate **Senior Software Engineer** currently working at **Circles.Life**, where I focus on building scalable microservices and delivering impactful solutions in the telecom, FinTech, and Telco domains.
+Welcome to my GitHub! I'm a passionate **Senior Software Engineer** currently working at **Circles.Life**, where I focus on building scalable microservices and delivering impactful solutions in the FinTech and Telco domains.
 
 ---
 
