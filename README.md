@@ -7,11 +7,9 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** currently wo
 ## 🏆 Certifications
 
 - **Certified Kubernetes Application Developer (CKAD)**  
-  [View Credential](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/522a9a2e-664f-4fc1-a9ab-e709c398e40d-dompegamage-wishwa-prabodha-wijeratne-99555add-9882-4e3f-85f1-e59e235eceb1-certificate.pdf)
-
 ---
 
-## 💻 Technical Skills
+## 💻 Things I Tinker With
 
 - **Languages**: Node.js, Golang, Java, Python, JavaScript, Bash, C  
 - **Tools & Platforms**: Docker, Kubernetes, Jenkins, AWS, GCP, RabbitMQ, ELK Stack, Grafana, New Relic  
@@ -20,11 +18,6 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** currently wo
 
 ---
 
-## 🎓 Education
-
-- **B.Sc. in Computer Science (Honours), University of Kelaniya**, Sri Lanka  
-
----
 
 ## 📫 Let's Connect!
 
