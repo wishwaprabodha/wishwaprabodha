@@ -6,12 +6,7 @@
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wishwaprabodha&layout=compact&theme=radical)
-
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=wishwaprabodha&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wishwaprabodha)](https://github.com/wishwaprabodha/github-readme-stats)
 
 ## 🏆 Certifications
 
