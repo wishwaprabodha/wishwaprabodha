@@ -1,7 +1,16 @@
 # 👋 Hi, I'm Wishwa Prabodha
 
-Welcome to my GitHub! I'm a passionate **Senior Software Engineer** currently working at **Circles.Life**, where I focus on building scalable microservices and delivering impactful solutions in the FinTech and Telco domains.
+## GitHub Stats
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wishwaprabodha&show_icons=true&theme=radical)
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wishwaprabodha&layout=compact&theme=radical)
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=wishwaprabodha&theme=radical)
 ---
 
 ## 🏆 Certifications
