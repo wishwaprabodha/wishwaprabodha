@@ -4,9 +4,6 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wishwaprabodha&show_icons=true&theme=radical)
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wishwaprabodha)](https://github.com/wishwaprabodha/github-readme-stats)
 
 ## 🏆 Certifications
 
